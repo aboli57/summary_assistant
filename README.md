@@ -7,8 +7,8 @@
     PROVIDER=groq  
     PORT=5000
 
-Run the script npm run dev:server in the backend.  
+    Run the script npm run dev:server in the backend.  
 
 2.  Create .env in the client with
      NEXT_PUBLIC_BACKEND_URL=    
-Run the script npm run dev in the client.
+    Run the script npm run dev in the client.
